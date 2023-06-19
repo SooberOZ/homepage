@@ -267,6 +267,10 @@ body {
     justify-content: space-between;
 }
 
+.footerleft{
+    margin-left: 20px;
+}
+
 .footerright {
     margin-left: 280px;
 }
